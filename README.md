@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khoshboansari7-byte" alt="khoshboansari7-byte" /></a> </p>
 
-- 🌱 I’m currently learning **IT**
-
 - 👨‍💻 All of my projects are available at [https://github.com/khoshboansari7-byte](https://github.com/khoshboansari7-byte)
-
-- 📫 How to reach me **Khoshboansari7@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/khushboansari/](https://www.linkedin.com/in/khushboansari/)
-
-- ⚡ Fun fact **fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
